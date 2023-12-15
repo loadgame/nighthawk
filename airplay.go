@@ -12,7 +12,8 @@ import (
 	"encoding/binary"
 	"fmt"
 	//"encoding/pem"
-	"github.com/DHowett/go-plist"
+	//"github.com/DHowett/go-plist"
+	"howett.net/plist"
 	"log"
 )
 
